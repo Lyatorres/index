@@ -1,0 +1,4 @@
+- source: EDUCACION.qmd
+  quarto-pub:
+    - id: 11550c68-f885-4a34-976c-31e49745a34b
+      url: https://brayan24.quarto.pub/taller
